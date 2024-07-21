@@ -1,0 +1,1 @@
+# Agregar ítems al inventario del personaje
